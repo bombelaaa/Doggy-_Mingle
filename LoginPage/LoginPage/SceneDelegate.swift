@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  LoginPage
-//
-//  Created by Mauricio Macias on 3/17/21.
-//  Copyright © 2021 Mauricio Macias. All rights reserved.
-//
 
 import UIKit
 import SwiftUI
